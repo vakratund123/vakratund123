@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vakratund123
+- 👋 Hi, I’m @shridhar
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data science
